@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine_Learning_Projects
 Machine Learning Weekly Projects
 
 

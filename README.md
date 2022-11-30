@@ -29,8 +29,10 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 * DBSCAN - Clustering
 ![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)
 
-* Color map vote_average x revenue  
-![image](https://user-images.githubusercontent.com/94350277/204834148-6ac620c4-21a7-4674-b408-a78d2d9efa91.png)
 
-* Movie Feature's Correlation heatmap
-![image](https://user-images.githubusercontent.com/94350277/204834083-a1ff3f06-9b3c-41f0-bc86-ac88e3004ad1.png)
+* Use 'ratings.csv', 'movie_metadata.csv‘ to fit Main dataset and joined 2 datasets by using ‘movieId’
+* TMDB 5000 Movie Dataset has no ratings, so join The Movies Dataset’s ‘ratings.csv’ by using 'tmdbId‘ feature.  
+![image](https://user-images.githubusercontent.com/94350277/204834455-5b931257-f06b-4f05-a8f0-29ffe76cf610.png)
+
+
+

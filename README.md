@@ -38,4 +38,15 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 * Encoding Categorical data using One-hot Encoding
 ![image](https://user-images.githubusercontent.com/94350277/204834787-6f0641b9-04f0-4ae6-9e85-95d3d6ab597d.png)
 
+============================================
+
+### Modeling
+
+Matrix Facorization  
+* TMDB 5000 Movie Dataset has no ratings, so join ‘ratings.csv’ of ‘The Movies Dataset’ by using 'tmdbId‘ feature.
+* Made Matrix using joined data 
+* Made pivot table and non-zero values.
+* Training RMSELearning rate = 0.02, epoch = 100,RMSE remained 0.22 
+* Truncate using SVD
+![image](https://user-images.githubusercontent.com/94350277/204835136-b44a63f8-de1b-4935-ba8f-026d709b1578.png)
 

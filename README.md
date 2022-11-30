@@ -23,20 +23,20 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 
-* Kmeans - Clustering
-![image](https://user-images.githubusercontent.com/94350277/204837365-04be45ca-6219-4761-851d-a1e79d834101.png)  
+* Kmeans - Clustering  
+![image](https://user-images.githubusercontent.com/94350277/204833333-b8c1d47d-2edc-496e-8b47-962f2dd2608a.png)
 
-* DBSCAN - Clustering
-![image](https://user-images.githubusercontent.com/94350277/204837499-d4a10b3e-e4aa-4a7b-9bcc-082a71070fe5.png)  
+* DBSCAN - Clustering  
+![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)
 
 
 * Use 'ratings.csv', 'movie_metadata.csv‘ to fit Main dataset and joined 2 datasets by using ‘movieId’
 * TMDB 5000 Movie Dataset has no ratings, so join The Movies Dataset’s ‘ratings.csv’ by using 'tmdbId‘ feature.  
-![image](https://user-images.githubusercontent.com/94350277/204837186-72eca8c9-777d-4de1-9880-684507d4df56.png)  
-  
+![image](https://user-images.githubusercontent.com/94350277/204834622-4fc423b3-c754-4591-8dc8-a08519fbf453.png)
+
 * Normalize Numerical data using Min Max Scaler, Standard Scaler
 * Encoding Categorical data using One-hot Encoding
-![image](https://user-images.githubusercontent.com/94350277/204837068-7095e05d-f170-4667-986b-4b217e98d3c3.png)  
+![image](https://user-images.githubusercontent.com/94350277/204834787-6f0641b9-04f0-4ae6-9e85-95d3d6ab597d.png)
 
 ------------------------------------------------------
 

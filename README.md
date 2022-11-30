@@ -10,6 +10,5 @@
 * It’s a system for people who are thinking about which movie to choose
 
 
-<img src="https://user-images.githubusercontent.com/94350277/204816396-5c3b3409-323d-48bf-a981-9e222c0677a1.png  width="400" height="200"/>  
+![image](https://user-images.githubusercontent.com/94350277/204816396-5c3b3409-323d-48bf-a981-9e222c0677a1.png){: width="100" height="100"}  
 Source : NETFLIX(https://www.netflix.com/kr/)
-                                                                                                                                         

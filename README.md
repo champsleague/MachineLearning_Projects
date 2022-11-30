@@ -52,6 +52,7 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 ![image](https://user-images.githubusercontent.com/94350277/204835223-1fbdafc1-89fc-49e5-9602-eceea6d48ef6.png)
 
 
+
 #### Content Based Filtering
 * Get weighted vote using Genre's similarity distance.
 * First, get double number of recommendation results by  Genre’s similarity.
@@ -60,11 +61,13 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 10 movies recommendation of ‘The Godfather’
 
 
+
 #### Collaborative based Filtering  
 * Generating movie weight based on the user rating and user's view
 * Make recommendation system based on criteria 50% voted averaged movies and 50% of popular movies  
 ![image](https://user-images.githubusercontent.com/94350277/204835924-fde3c903-91b1-449e-8296-7faf2fd85c13.png)  
 Generate scores and sort it based on the criteria set in the starting.
+
 
 
 #### KNN

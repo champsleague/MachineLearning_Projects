@@ -67,7 +67,7 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 #### Collaborative based Filtering  
 * Generating movie weight based on the user rating and user's view
 * Make recommendation system based on criteria 50% voted averaged movies and 50% of popular movies  
-![image](https://user-images.githubusercontent.com/94350277/204835924-fde3c903-91b1-449e-8296-7faf2fd85c13.png)  
+![image](https://user-images.githubusercontent.com/94350277/204838347-2f2f260f-24aa-45d5-9ed2-c9341307f111.png)  
 Generate scores and sort it based on the criteria set in the starting.  
 
 
@@ -76,7 +76,7 @@ Generate scores and sort it based on the criteria set in the starting.
 * Convert string type to binary type of 4 features [‘genres’, ‘cast’, ‘director’, ‘keywords’]
 * Generate similarity distance for 4 features
 * Get neighbor using KNN model with keywords  
-![image](https://user-images.githubusercontent.com/94350277/204836125-b33c4d02-e931-4674-84db-4a9f31ccf9cf.png)  
+![image](https://user-images.githubusercontent.com/94350277/204838405-dc35ed7d-68a0-4d6b-91c3-469a707332d1.png)  
 Keyword = ‘God Father‘, K = 10  
 
 

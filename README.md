@@ -47,5 +47,5 @@ Matrix Facorization
 * Made Matrix using joined data 
 * Made pivot table and non-zero values.
 * Training RMSE Learning rate = 0.02, epoch = 100, RMSE remained 0.22 
-* Truncate using SVD
+* Truncate using SVD  
 ![image](https://user-images.githubusercontent.com/94350277/204835223-1fbdafc1-89fc-49e5-9602-eceea6d48ef6.png)

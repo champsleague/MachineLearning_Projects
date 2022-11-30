@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 
 * Kmeans - Clustering  
-![image](https://user-images.githubusercontent.com/94350277/204833333-b8c1d47d-2edc-496e-8b47-962f2dd2608a.png)
+![image](https://user-images.githubusercontent.com/94350277/204837997-4933720c-07fc-4a65-a5bc-b86bb688b3de.png)  
 
 * DBSCAN - Clustering  
 ![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)

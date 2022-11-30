@@ -24,19 +24,19 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 
 * Kmeans - Clustering
-![image](https://user-images.githubusercontent.com/94350277/204833333-b8c1d47d-2edc-496e-8b47-962f2dd2608a.png)
+![image](https://user-images.githubusercontent.com/94350277/204837365-04be45ca-6219-4761-851d-a1e79d834101.png)  
 
 * DBSCAN - Clustering
-![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)
+![image](https://user-images.githubusercontent.com/94350277/204837499-d4a10b3e-e4aa-4a7b-9bcc-082a71070fe5.png)  
 
 
 * Use 'ratings.csv', 'movie_metadata.csv‘ to fit Main dataset and joined 2 datasets by using ‘movieId’
 * TMDB 5000 Movie Dataset has no ratings, so join The Movies Dataset’s ‘ratings.csv’ by using 'tmdbId‘ feature.  
-![image](https://user-images.githubusercontent.com/94350277/204834622-4fc423b3-c754-4591-8dc8-a08519fbf453.png)
-
+![image](https://user-images.githubusercontent.com/94350277/204837186-72eca8c9-777d-4de1-9880-684507d4df56.png)  
+  
 * Normalize Numerical data using Min Max Scaler, Standard Scaler
 * Encoding Categorical data using One-hot Encoding
-![image](https://user-images.githubusercontent.com/94350277/204834787-6f0641b9-04f0-4ae6-9e85-95d3d6ab597d.png)
+![image](https://user-images.githubusercontent.com/94350277/204837068-7095e05d-f170-4667-986b-4b217e98d3c3.png)  
 
 ------------------------------------------------------
 
@@ -50,26 +50,28 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 * Truncate using SVD  
  
 ![image](https://user-images.githubusercontent.com/94350277/204835223-1fbdafc1-89fc-49e5-9602-eceea6d48ef6.png)  
-  
-  
-  
+
+
+
+
 #### Content Based Filtering
 * Get weighted vote using Genre's similarity distance.
 * First, get double number of recommendation results by  Genre’s similarity.
 * Second, get recommendation results using weighted vote  
 ![image](https://user-images.githubusercontent.com/94350277/204835710-f451662a-95be-40b9-b44c-eaf5148ac3e8.png)  
 10 movies recommendation of ‘The Godfather’  
-  
-  
-  
+
+
+
+
 #### Collaborative based Filtering  
 * Generating movie weight based on the user rating and user's view
 * Make recommendation system based on criteria 50% voted averaged movies and 50% of popular movies  
 ![image](https://user-images.githubusercontent.com/94350277/204835924-fde3c903-91b1-449e-8296-7faf2fd85c13.png)  
 Generate scores and sort it based on the criteria set in the starting.  
-  
-  
-  
+
+
+
 #### KNN
 * Convert string type to binary type of 4 features [‘genres’, ‘cast’, ‘director’, ‘keywords’]
 * Generate similarity distance for 4 features

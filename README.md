@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 ![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)
 
 * Color map vote_average x revenue  
-![image](https://user-images.githubusercontent.com/94350277/204833612-68f44d96-b66d-4759-88d5-100458dbb49e.png)
+![image](https://user-images.githubusercontent.com/94350277/204834148-6ac620c4-21a7-4674-b408-a78d2d9efa91.png)
 
 * Movie Feature's Correlation heatmap
-![image](https://user-images.githubusercontent.com/94350277/204833700-aa51f44c-8087-40a0-8e2f-8ce45bcfa784.png)
+![image](https://user-images.githubusercontent.com/94350277/204834083-a1ff3f06-9b3c-41f0-bc86-ac88e3004ad1.png)

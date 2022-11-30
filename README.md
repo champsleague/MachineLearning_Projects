@@ -32,11 +32,11 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 * Use 'ratings.csv', 'movie_metadata.csv‘ to fit Main dataset and joined 2 datasets by using ‘movieId’
 * TMDB 5000 Movie Dataset has no ratings, so join The Movies Dataset’s ‘ratings.csv’ by using 'tmdbId‘ feature.  
-![image](https://user-images.githubusercontent.com/94350277/204834622-4fc423b3-c754-4591-8dc8-a08519fbf453.png)
+![image](https://user-images.githubusercontent.com/94350277/204837862-62d00f2d-d589-450f-8f1a-dee3fefc9401.png)  
 
 * Normalize Numerical data using Min Max Scaler, Standard Scaler
 * Encoding Categorical data using One-hot Encoding
-![image](https://user-images.githubusercontent.com/94350277/204834787-6f0641b9-04f0-4ae6-9e85-95d3d6ab597d.png)
+![image](https://user-images.githubusercontent.com/94350277/204837824-5bf3f5ed-81e8-4989-ad6c-5f5a8354d09e.png)  
 
 ------------------------------------------------------
 

@@ -34,4 +34,8 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 * TMDB 5000 Movie Dataset has no ratings, so join The Movies Dataset’s ‘ratings.csv’ by using 'tmdbId‘ feature.  
 ![image](https://user-images.githubusercontent.com/94350277/204834622-4fc423b3-c754-4591-8dc8-a08519fbf453.png)
 
+* Normalize Numerical data using Min Max Scaler, Standard Scaler
+* Encoding Categorical data using One-hot Encoding
+![image](https://user-images.githubusercontent.com/94350277/204834787-6f0641b9-04f0-4ae6-9e85-95d3d6ab597d.png)
+
 

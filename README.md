@@ -24,10 +24,10 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 
 * Kmeans - Clustering  
-![image](https://user-images.githubusercontent.com/94350277/204837997-4933720c-07fc-4a65-a5bc-b86bb688b3de.png)  
+![image](https://user-images.githubusercontent.com/94350277/204838127-a590d3ef-2755-4b89-baa4-20f27a1bc967.png)  
 
 * DBSCAN - Clustering  
-![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)
+![image](https://user-images.githubusercontent.com/94350277/204838234-2b59a2ce-0d7f-465d-9dd3-54e7ceb838c1.png)  
 
 
 * Use 'ratings.csv', 'movie_metadata.csv‘ to fit Main dataset and joined 2 datasets by using ‘movieId’

@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 * DBSCAN - Clustering
 ![image](https://user-images.githubusercontent.com/94350277/204833462-19dde132-7d45-48ab-baf6-4c80e5f45eac.png)
 
-* Color map vote_average x revenue
+* Color map vote_average x revenue  
 ![image](https://user-images.githubusercontent.com/94350277/204833612-68f44d96-b66d-4759-88d5-100458dbb49e.png)
 
 * Movie Feature's Correlation heatmap

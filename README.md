@@ -32,7 +32,6 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 * Use 'ratings.csv', 'movie_metadata.csv‘ to fit Main dataset and joined 2 datasets by using ‘movieId’
 * TMDB 5000 Movie Dataset has no ratings, so join The Movies Dataset’s ‘ratings.csv’ by using 'tmdbId‘ feature.  
-![image](https://user-images.githubusercontent.com/94350277/204834455-5b931257-f06b-4f05-a8f0-29ffe76cf610.png)
-
+![image](https://user-images.githubusercontent.com/94350277/204834622-4fc423b3-c754-4591-8dc8-a08519fbf453.png)
 
 

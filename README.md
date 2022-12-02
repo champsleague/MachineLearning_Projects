@@ -1,4 +1,4 @@
-# Machine_Learning_Projects  
+# Machine Learning Projects  
 
 ### Machine Learning Movie Recommendation System
 
